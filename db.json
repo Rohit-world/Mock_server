@@ -17,6 +17,31 @@
       "kms": 8000,
       "Description": "Tata Nexon with all original documents",
       "Price": 800000
+    },
+    {
+      "id": 3,
+      "brand": "Ferrari",
+			"type":"AMT",
+      "year": 2017,
+      "kms": 900000,
+      "Description": "Ferrari with all original documents",
+      "Price": 7000000
+    },{
+      "id": 4,
+      "brand": "Hyundai",
+			"type":"AMT",
+      "year": 2017,
+      "kms": 6440000,
+      "Description": "Hyundai with all original documents",
+      "Price": 560000
+    },{
+      "id": 5,
+      "brand": "Mahindra",
+			"type":"AMT",
+      "year": 2022,
+      "kms": 6440000,
+      "Description": "Mahindra with all original documents",
+      "Price": 56800
     }
   ],
 "wishlisted_cars": [
